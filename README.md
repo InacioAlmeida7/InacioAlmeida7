@@ -38,7 +38,7 @@
 **Ferramentas e sistemas operacionais**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,windows" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" alt="Ferramentas" />
 </p>
 
 **Inteligência Artificial**
