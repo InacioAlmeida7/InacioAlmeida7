@@ -23,10 +23,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,python" alt="Linguagens" />
 </p>
 
-**Frontend e CMS**
+**Frameworks e CMS**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,wordpress" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=node,react,vite,wordpress" alt="Frontend" />
 </p>
 
 **Banco de dados**
