@@ -26,7 +26,7 @@
 **Frameworks e CMS**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=node,react,vite,wordpress" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,vite,wordpress" alt="Frontend" />
 </p>
 
 **Banco de dados**
